@@ -1,2 +1,4 @@
 # agile-final-project
-IBM DevOps and Software Engineering
+Course: IBM DevOps and Software Engineering
+Module: Agile and Scrum Fundamentals
+HONORS Project
